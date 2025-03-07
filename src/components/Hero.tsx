@@ -17,7 +17,7 @@ export const Hero = () => {
       
       {/* Pattern overlay */}
       <div className="absolute inset-0 opacity-20" style={{
-        backgroundImage: 'url("/lovable-uploads/612903fa-2447-44be-a012-b49618cf0f3d.png")',
+        backgroundImage: 'url("/images/612903fa-2447-44be-a012-b49618cf0f3d.png")',
         backgroundSize: '800px',
         backgroundPosition: 'center',
         backgroundRepeat: 'repeat',
