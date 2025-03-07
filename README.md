@@ -1,5 +1,5 @@
 # Flexora
-![Flexora Screenshot](heroimage2.png)
+![Flexora Screenshot](public/heroimage2.png)
 
 ## ClientDashboard
  ![Flexora Screenshot](public/clientdashboard.png)
